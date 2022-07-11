@@ -11,3 +11,6 @@ void OnSendClicked(){
 	//code
 }
 
+void OpenOptions(){
+	//code
+}
