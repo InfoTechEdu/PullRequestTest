@@ -1,5 +1,9 @@
+DataController dt;
+
 void Start (){
 }
 
 void OnClick(){
+	dt.LoadImages();
 }
+
